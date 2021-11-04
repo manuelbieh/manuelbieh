@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm **Manuel Bieh**. Freelance JavaScript Engineer with a strong Focus on React, based in Berlin, Germany.
+I'm **Manuel Bieh**. Freelance JavaScript Engineer with a strong focus on React, based in Berlin, Germany.
 
 [![Twitter Follow][twitter-image]](https://twitter.com/manuelbieh)
 ![js-image]
