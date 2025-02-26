@@ -1,10 +1,10 @@
 ### Hi 👋
 
-I'm **Manuel Bieh**. Freelance JavaScript Engineer with a strong focus on React, based in Berlin, Germany.
+I'm **Manuel Bieh**. Freelance TypeScript Engineer with a strong focus on React, based in Berlin, Germany.
 
 [![Twitter Follow][twitter-image]](https://twitter.com/manuelbieh)
-![js-image]
 ![ts-image]
+![js-image]
 ![node-image]
 
 > _Passion for quality software is what drives me. I build modern, scalable and maintainable applications for the web. I aim to deliver value to your product, have a positive, exceptional impact on your team, and ultimately help your company to be more efficient._
